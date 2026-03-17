@@ -1,7 +1,4 @@
-I am Caroline, a senior studying math at the University of Maryland.  
-I'm mainly interested in number theory and related areas, but I love all areas of math!  
-My programming experience is mainly in HTML/JS and Python, but I also have some experience in Java and C(++).
-Please reach out if you want to collaborate!
+[https://people.math.wisc.edu/~cnunn/](https://people.math.wisc.edu/~cnunn/)
 <!--- 👋 Hi, I’m @GreenBlueCyan
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
